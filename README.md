@@ -1,7 +1,7 @@
 # OSCP Cheatsheet
 
 nmap
-' nmap -sC -sV -OA 10.10.123.43 '
+` nmap -sC -sV -OA 10.10.123.43 `
 
 
 ftp
