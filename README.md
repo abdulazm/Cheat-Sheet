@@ -1,4 +1,12 @@
-# OSCP
+# OSCP Cheatsheet
+
+nmap
+>nmap -sC -sV -OA 10.10.123.43
+
+
+ftp
+
+
 
 <p>
   someone's blog
